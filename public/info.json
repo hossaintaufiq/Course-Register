@@ -1,0 +1,81 @@
+[
+    {
+      "id": "1",
+      "cover_img": "https://i.ibb.co/JxxzxfZ/Rectangle-2-1.png",
+      "course_name": "Introduction to Programming",
+      "course_details": "Learn the basics of programming in Python.",
+      "course_price": 49.99,
+      "course_credit_hour": 3
+    },
+    {
+      "id": "2",
+      "cover_img": "https://i.ibb.co/mSgX5tK/Rectangle-2-2.png",
+      "course_name": "Web Development Fundamentals",
+      "course_details": "Build your first website with HTML and CSS.",
+      "course_price": 59.99,
+      "course_credit_hour": 4
+    },
+    {
+      "id": "3",
+      "cover_img": "https://i.ibb.co/qR6DHL6/Rectangle-2-3.png",
+      "course_name": "Data Analysis with Python",
+      "course_details": "Analyze data using Python and popular libraries.",
+      "course_price": 69.99,
+      "course_credit_hour": 5
+    },
+    {
+      "id": "4",
+      "cover_img": "https://i.ibb.co/XYfqTBP/Rectangle-2-4.png",
+      "course_name": "Machine Learning Essentials",
+      "course_details": "Dive into machine learning algorithms and models.",
+      "course_price": 79.99,
+      "course_credit_hour": 6
+    },
+    {
+      "id": "5",
+      "cover_img": "https://i.ibb.co/CWchg4K/Rectangle-2-5.png",
+      "course_name": "Mobile App Development",
+      "course_details": "Create mobile apps for Android and iOS.",
+      "course_price": 89.99,
+      "course_credit_hour": 6
+    },
+    {
+      "id": "6",
+      "cover_img": "https://i.ibb.co/0Fy53CK/Rectangle-2-6.png",
+      "course_name": "Database Management",
+      "course_details": "Design and manage databases efficiently.",
+      "course_price": 69.99,
+      "course_credit_hour": 4
+    },
+    {
+      "id": "7",
+      "cover_img": "https://i.ibb.co/RjSpsBZ/Rectangle-3.png",
+      "course_name": "Digital Marketing Fundamentals",
+      "course_details": "Learn the basics of digital marketing strategies.",
+      "course_price": 59.99,
+      "course_credit_hour": 3
+    },
+    {
+      "id": "8",
+      "cover_img": "https://i.ibb.co/qJXTfx6/Rectangle-3-1.png",
+      "course_name": "Graphic Design Mastery",
+      "course_details": "Master Adobe Creative Suite for graphic design.",
+      "course_price": 79.99,
+      "course_credit_hour": 5
+    },
+    {
+      "id": "9",
+      "cover_img": "https://i.ibb.co/LC5jwyN/Rectangle-2.png",
+      "course_name": "Project Management Professional",
+      "course_details": "Become a certified project management professional.",
+      "course_price": 99.99,
+      "course_credit_hour": 6
+    }
+  ]
+  
+
+
+
+
+
+
